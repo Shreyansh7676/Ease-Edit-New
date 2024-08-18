@@ -201,7 +201,7 @@ function App(props) {
           width='50%'
         /> */}
           <Button variant="primary" onClick={handleUpload}>
-            Launch static backdrop modal
+            Edit Image
           </Button>
 
           <Modal
